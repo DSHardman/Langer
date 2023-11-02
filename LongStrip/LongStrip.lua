@@ -78,4 +78,4 @@ end
 set_setting_value('phasor_infill_theta_0', theta, v(0,0,0), v(180,35,5))
 set_setting_value('phasor_infill_iso_0', iso, v(0,0,0), v(180,35,5))
 set_setting_value('phasor_infill_phi_0', 0)
-set_setting_value('infill_percentage_0', 30)
+set_setting_value('infill_percentage_0', 20)

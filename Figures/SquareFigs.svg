@@ -24,9 +24,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      showborder="false"
-     inkscape:zoom="0.66368545"
-     inkscape:cx="147.66031"
-     inkscape:cy="336.75591"
+     inkscape:zoom="0.93859296"
+     inkscape:cx="375.02945"
+     inkscape:cy="297.78617"
      inkscape:window-width="1920"
      inkscape:window-height="1121"
      inkscape:window-x="-9"
@@ -1463,15 +1463,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.67851px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0669631"
-       x="90.118645"
+       x="83.776039"
        y="73.184944"
        id="text11155-1-5-0-3-0-6-4"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan11153-5-1-4-9-7-8-8"
          style="stroke-width:0.0669631"
-         x="90.118645"
-         y="73.184944">Size (mm)</tspan></text>
+         x="83.776039"
+         y="73.184944">Fracture Width (mm)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.67851px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0669631"
@@ -2435,7 +2435,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Boxes"
-     transform="translate(4.8107592e-7,46.738884)">
+     transform="translate(9.6215184e-7,46.738887)">
     <path
        d="M 18.071445,79.700359 V 65.942025"
        style="fill:none;stroke:#262626;stroke-width:0.175683;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
